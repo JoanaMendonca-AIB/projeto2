@@ -1,0 +1,43 @@
+body {
+    background-color:black;
+    color:white;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin: 20px;
+}
+h1 {
+    color: #d9a441;
+    font-family: Georgia, serif;
+    text-align: center;
+    background-color: #550000;
+    padding: 25px;
+}
+h2 {
+    color: #d9a441;
+    font-family: Georgia, serif;
+    margin-top: 30px;
+}
+img {
+    display: block;
+    width: 600px;
+    height: auto;
+    margin: 25px auto;
+}
+div {
+    margin: 15px;
+}
+.destaque {
+    background-color: #550000;
+    color: white;
+}
+a {
+    color: #d9a441;
+    font-weight: bold;
+}
+/*
+1. Desafio Técnico: A parte mais difícil foi acertar nas cores e nos espaços (margens) da classe .destaque para que o parágrafo sobressaísse bem. Consegui superar esta dificuldade testando várias opções e vendo o resultado diretamente no browser até ficar com o efeito pretendido.
+
+2. Correção de Sintaxe: O erro mais comum foi esquecer-me de colocar pontos e vírgulas no final das linhas ou chavetas no ficheiro CSS. Quando guardava e abria no browser, os estilos não apareciam, o que me obrigava a voltar ao Notepad++ para corrigir o código.
+
+3. Autoria: O atributo href serve para indicar o endereço de uma página da Internet (URL) para onde o utilizador é encaminhado quando clica numa hiperligação
+*/
